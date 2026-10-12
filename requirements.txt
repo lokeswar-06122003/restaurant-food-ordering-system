@@ -1,0 +1,7 @@
+# Shared Python dependencies for the Restaurant Food Ordering System
+
+Flask>=3.0,<4.0
+requests>=2.31,<3.0
+
+# Automated testing
+pytest>=8.0,<10.0
